@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=7000&pause=1000&color=67A2F7&background=FF6EE800&center=true&width=435&lines=Hi%2C+I%E2%80%99m+Michael%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
-## 💻 About Me
+# About Me
 - 🎓 Currently completing my BSIT degree at Jose Rizal University
 - 👨‍💻 A tech enthusiast with a passion for both frontend and backend development
 - 🤖 Exploring Machine Learning, Natural Language Processing, and Deep Learning
